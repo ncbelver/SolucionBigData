@@ -1,5 +1,6 @@
 # SolucionBigData
 Código para la gestión de catálogo (netbeans, tomcat, mysql, jsp), generación y transformacion de datos (json, python), analizar recomendaciones (java-mahout)
+
  /*    Copyright (C) 2016  Natividad Crespo Belver. 
     Proyecto desarrollado como parte del TFG en la Universidad Internacional de la Rioja
 
