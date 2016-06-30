@@ -1,0 +1,75 @@
+ /*  Recomendaciones.txt: información de las recomendaciones generadas
+
+    Copyright (C) 2016  Natividad Crespo Belver. 
+    Proyecto desarrollado como parte del TFG en la Universidad Internacional de la Rioja
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+ * * * * El usuario: 479924 según la valoración de sus aplicaciones, realiza las siguientes recomendaciones:
+ Código: 4 Aplicación: IBI - Inventario de Bienes Inmuebles				 Valoración: 5.5379553
+ Código: 7 Aplicación: MIT - Mantenimiento de Inspecciones				 Valoración: 5.5136456
+ Código: 8 Aplicación: VBS - Valorar Buzon Sugerencias				 Valoración: 5.4974604
+ Código: 1 Aplicación: GOT - Gestor de Ordenes				 Valoración: 5.4867196
+ Código: 2 Aplicación: GPP - Gestionar Pagos				 Valoración: 5.4769993 
+  
+ * * * *  Obtener la similitud entre dos aplicaciones: 1  y  8
+ Resultado: 0.9726526721315549 
+   
+ * * * *  Similitud entre la aplicación: 3 y el resto de aplicaciones:
+ Código: 8 Aplicación: VBS - Valorar Buzon Sugerencias				 Valoración: 0.9811594
+ Código: 4 Aplicación: IBI - Inventario de Bienes Inmuebles				 Valoración: 0.9785642
+ Código: 7 Aplicación: MIT - Mantenimiento de Inspecciones				 Valoración: 0.9769158
+ Código: 1 Aplicación: GOT - Gestor de Ordenes				 Valoración: 0.97603446
+ Código: 9 Aplicación: SCA - Seguimiento y Control				 Valoración: 0.96794176
+ Código: 5 Aplicación: GCA - Gestionar  Contratos				 Valoración: 0.9627949
+ Código: 2 Aplicación: GPP - Gestionar Pagos				 Valoración: 0.958956
+ Código: 6 Aplicación: VIO - Venta de Inmuebles				 Valoración: 0.956981
+  
+ * * * *   Fuente de Datos: 
+ Total Usuarios: 5223		 Total Aplicaciones: 9
+
+  Usuario: 479924			 Mostrar sus preferencias: 
+ Aplicación: SIA - Supervisar Impugnaciones				 Valoración: 10.0
+ Aplicación: SCA - Seguimiento y Control				 Valoración: 1.0
+
+
+ Similitud entre el usuario: 479924 y el Usuario Próximo: 471217
+ ID Aplicación: 3 Nombre: SIA - Supervisar Impugnaciones
+		 Valoración de Usuario: 10.0				 Valoración de Usuario Próximo: 6.0
+ ID Aplicación: 9 Nombre: SCA - Seguimiento y Control
+		 Valoración de Usuario: 1.0				 Valoración de Usuario Próximo: 4.0
+
+ Similitud entre el usuario: 479924 y el Usuario Próximo: 471240
+ ID Aplicación: 3 Nombre: SIA - Supervisar Impugnaciones
+		 Valoración de Usuario: 10.0				 Valoración de Usuario Próximo: 6.0
+ ID Aplicación: 9 Nombre: SCA - Seguimiento y Control
+		 Valoración de Usuario: 1.0				 Valoración de Usuario Próximo: 4.0
+
+ Similitud entre el usuario: 479924 y el Usuario Próximo: 471410
+ ID Aplicación: 3 Nombre: SIA - Supervisar Impugnaciones
+		 Valoración de Usuario: 10.0				 Valoración de Usuario Próximo: 6.0
+ ID Aplicación: 9 Nombre: SCA - Seguimiento y Control
+		 Valoración de Usuario: 1.0				 Valoración de Usuario Próximo: 1.0
+
+ Similitud entre el usuario: 479924 y el Usuario Próximo: 472464
+ ID Aplicación: 3 Nombre: SIA - Supervisar Impugnaciones
+		 Valoración de Usuario: 10.0				 Valoración de Usuario Próximo: 4.0
+ ID Aplicación: 9 Nombre: SCA - Seguimiento y Control
+		 Valoración de Usuario: 1.0				 Valoración de Usuario Próximo: 1.0
+
+ Similitud entre el usuario: 479924 y el Usuario Próximo: 473320
+ ID Aplicación: 3 Nombre: SIA - Supervisar Impugnaciones
+		 Valoración de Usuario: 10.0				 Valoración de Usuario Próximo: 10.0
+ ID Aplicación: 9 Nombre: SCA - Seguimiento y Control
+		 Valoración de Usuario: 1.0				 Valoración de Usuario Próximo: 4.0
